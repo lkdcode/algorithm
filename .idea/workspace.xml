@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5663056-fe01-4aa9-98eb-301f77a8e4a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaekJoon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaekJoon1018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaekJoon1193.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekJoon10845.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekJoon1247.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekJoon1371.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekJoon2805.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjooncompletion/BaekJoon10984.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjooncompletion/BaekJoon1350.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjooncompletion/BaekJoon1620.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjooncompletion/BaekJoon1673.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjooncompletion/BaekJoon2442.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjooncompletion/BaekJoon2775.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjooncompletion/baekJoon1032.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjooncompletion/baekJoon1037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjooncompletion/baekJoon10773.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjooncompletion/baekJoon10828.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjooncompletion/baekJoon1145.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjooncompletion/baekJoon1225.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjooncompletion/baekJoon1233.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjooncompletion/baekJoon1236.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjooncompletion/baekJoon1268.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjooncompletion/baekJoon1292.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjooncompletion/baekJoon1296.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjooncompletion/baekJoon1357.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjooncompletion/baekJoon2164.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjooncompletion/baekJoon2441.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjooncompletion/baekJoon2750.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjooncompletion/baekJoon2839.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjooncompletion/baekJoon4949.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/baekjoon11659/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/baekjoon11720/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/baekjoon1546/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/study/baekjoon11659/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/study/baekjoon11720/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/study/baekjoon1546/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/AdminBlockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/AlreadyBlockedException.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="algorithm" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2JiQx4CMRVZOzuESgYcwFYQ9GUs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kiducklee/IdeaProjects/algorithm/src/main/java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="study" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="study.baekjoon1546" />
+      <recent name="study" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.baekjoon11659.Main" />
+      <module name="algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.baekjoon11659.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.baekjoon11659.Main" />
+      <module name="algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.baekjoon11659.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.baekjoon11659.Main" />
+      <module name="algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.baekjoon11659.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.baekjoon11659.Main" />
+      <module name="algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.baekjoon11659.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.baekjoon11659.Main" />
+      <module name="algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.baekjoon11659.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.최고_점수_구하기" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.baekjoon1546.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="study.baekjoon1546" />
+      <option name="MAIN_CLASS_NAME" value="study.baekjoon1546.MainTest" />
+      <option name="METHOD_NAME" value="최고_점수_구하기" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.새로운_평균값_구하기" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.baekjoon1546.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="study.baekjoon1546" />
+      <option name="MAIN_CLASS_NAME" value="study.baekjoon1546.MainTest" />
+      <option name="METHOD_NAME" value="새로운_평균값_구하기" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5663056-fe01-4aa9-98eb-301f77a8e4a1" name="Changes" comment="" />
+      <created>1672558668259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672558668259</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
