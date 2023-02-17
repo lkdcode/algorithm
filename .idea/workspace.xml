@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5663056-fe01-4aa9-98eb-301f77a8e4a1" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BaekJoon9020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaekJoon15649.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaekJoon1874.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaekJoon1934.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjooncompletion/BaekJoon2747BottomUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjooncompletion/BaekJoon2747TopDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjooncompletion/BaekJoon3053.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjooncompletion/BaekJoon5086.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,37 +108,37 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BaekJoon9020">
-    <configuration name="BaekJoon11653" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjooncompletion.BaekJoon11653" />
+  <component name="RunManager" selected="Application.BaekJoon1934">
+    <configuration name="BaekJoon1934" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon1934" />
       <module name="algorithm.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekJoon1929" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjooncompletion.BaekJoon1929" />
+    <configuration name="BaekJoon2747BottomUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjooncompletion.BaekJoon2747BottomUp" />
       <module name="algorithm.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekJoon2581" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjooncompletion.BaekJoon2581" />
+    <configuration name="BaekJoon3053" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjooncompletion.BaekJoon3053" />
       <module name="algorithm.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekJoon4948" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjooncompletion.BaekJoon4948" />
+    <configuration name="BaekJoon5086" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjooncompletion.BaekJoon5086" />
       <module name="algorithm.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaekJoon9020" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjooncompletion.BaekJoon9020" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="algorithm.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -140,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BaekJoon9020" />
-        <item itemvalue="Application.BaekJoon4948" />
-        <item itemvalue="Application.BaekJoon1929" />
-        <item itemvalue="Application.BaekJoon11653" />
-        <item itemvalue="Application.BaekJoon2581" />
+        <item itemvalue="Application.BaekJoon1934" />
+        <item itemvalue="Application.BaekJoon5086" />
+        <item itemvalue="Application.BaekJoon2747BottomUp" />
+        <item itemvalue="Application.BaekJoon3053" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676468862645</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial Commit">
+      <created>1676471342366</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676471342366</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
